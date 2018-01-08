@@ -1,0 +1,3 @@
+# @freelancevipDemoBot
+
+Демонстрационный telegram бот
